@@ -43,6 +43,7 @@ datasets/
 *.npz
 *.pkl
 *.pickle
+*.keras
 
 # ========================
 # 모델 가중치
